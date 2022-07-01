@@ -1,0 +1,3 @@
+# github.com/LucasRoesler/openfaas-examples-and-tests/sdk/nested-vendor v0.0.0-20220701134155-836b1ee47691
+## explicit; go 1.18
+github.com/LucasRoesler/openfaas-examples-and-tests/sdk/nested-vendor/sdk
